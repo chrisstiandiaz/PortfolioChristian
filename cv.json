@@ -1,0 +1,137 @@
+{
+    "basics": {
+      "name": "Christian Diaz",
+      "label": "Programmer",
+      "image": "",
+      "email": "Christian.mdiaz2002@gmail.com",
+      "phone": "+51 932 226 920",
+      "url": "",
+      "summary": "Estudiante de la Facultad de Ingeniería de Software, cursando el octavo ciclo en la Universidad Tecnológica del Perú. Poseo habilidades destacadas en el ámbito de las relaciones interpersonales, siendo comunicativo, asertivo y proactivo. Me destaco por mi capacidad de liderazgo y cooperación, lo que me permite trabajar eficazmente en equipo. Comprometido, responsable y dinámico, abordo mis tareas con dedicación y orientación a la calidad. Mi honestidad, vocación de servicio y facilidad para trabajar bajo presión complementan mi perfil, convirtiéndome en un candidato altamente competitivo y adaptable a diversos entornos laborales.",
+      "location": {
+        "address": "",
+        "postalCode": "15842",
+        "city": "Lima",
+        "countryCode": "PE",
+        "region": "Lima"
+      },
+      "profiles": [
+
+    {   
+        "network": "x",
+        "username": "Christian Diaz",
+        "url": "https://x.com/diaz_chris84736"
+    },
+
+    {
+        "network": "Instagram",
+        "username": "Christian Diaz",
+        "url": "https://www.instagram.com/ch.diazzz/"
+    },
+
+    {
+        "network": "Linkendin",
+        "username": "Christian Diaz",
+        "url": "https://www.linkedin.com/in/christian-merlin-diaz-quispe-68306b20b/"
+
+    },
+
+    {
+        "network": "GitHub",
+        "username": "chrisstiandiaz",
+        "url": "https://github.com/chrisstiandiaz"
+
+    }]
+    },
+    "work": [{
+      "name": "PLATERS FOOD SAC",
+      "position": "Asistente Contable",
+      "url": "https://platersfood.com/",
+      "startDate": "2023-01-01",
+      "endDate": "2026-01-01",
+      "summary": "En mi rol como asistente contable en PLATER’S FOOD, desempeñé funciones clave en el manejo eficiente de las operaciones financieras. Mis responsabilidades incluyeron la realización precisa y oportuna de boletas, garantizando la documentación adecuada de las transacciones financieras. Además, me encargué del registro meticuloso de la información relacionada con compras y ventas en el sistema contable Concar, asegurando la exactitud e integridad de los datos. Mi competencia en la utilización de Concar permitió un seguimiento preciso y eficiente de las actividades financieras. Asimismo, brindé soporte técnico, manteniendo el sistema contable en óptimas condiciones para asegurar su correcto funcionamiento.",
+      "highlights": [
+        ""
+      ]
+    }],
+    "volunteer": [{
+      "organization": "Organization",
+      "position": "Volunteer",
+      "url": "https://organization.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Description…",
+      "highlights": [
+        "Awarded 'Volunteer of the Month'"
+      ]
+    }],
+    "education": [{
+      "institution": "Universidad Tecnológica del Perú",
+      "url": "https://www.utp.edu.pe/",
+      "area": "Software Engineer",
+      "studyType": "Bachelor",
+      "startDate": "2020-08-28",
+      "endDate": "2025-08-28",
+      "score": "4.0",
+      "courses": [
+        "DB1101 - Basic SQL"
+      ]
+    }],
+    "awards": [{
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }],
+    "certificates": [{
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    }],
+    "publications": [{
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }],
+    "skills": [{
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Astro",
+        "React",
+        "TypeScript",
+        "Tailwinds",
+        "Figma"
+      ]
+    }],
+    "languages": [{
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    }],
+    "interests": [{
+      "name": "Wildlife",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
+    }],
+    "references": [{
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }],
+    "projects": [{
+      "name": "Project",
+      "startDate": "2019-01-01",
+      "endDate": "2021-01-01",
+      "description": "Description...",
+      "highlights": [
+        "Won award at AIHacks 2016"
+      ],
+      "url": "https://project.com/"
+    }]
+  }
