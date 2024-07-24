@@ -1,8 +1,8 @@
 {
     "basics": {
       "name": "Christian Diaz",
-      "label": "Programmer",
-      "image": "",
+      "label": "Full Stack Developer",
+      "image": "https://avatars.githubusercontent.com/u/155854813?v=4",
       "email": "Christian.mdiaz2002@gmail.com",
       "phone": "+51 932 226 920",
       "url": "",
@@ -12,42 +12,38 @@
         "postalCode": "15842",
         "city": "Lima",
         "countryCode": "PE",
-        "region": "Lima"
+        "region": "Perú"
       },
       "profiles": [
 
     {   
-        "network": "x",
+        "network": "X",
         "username": "Christian Diaz",
         "url": "https://x.com/diaz_chris84736"
     },
 
     {
-        "network": "Instagram",
-        "username": "Christian Diaz",
-        "url": "https://www.instagram.com/ch.diazzz/"
+      "network": "GitHub",
+      "username": "chrisstiandiaz",
+      "url": "https://github.com/chrisstiandiaz"
+
     },
+ 
 
     {
-        "network": "Linkendin",
+        "network": "LinkedIn",
         "username": "Christian Diaz",
         "url": "https://www.linkedin.com/in/christian-merlin-diaz-quispe-68306b20b/"
+    }
 
-    },
-
-    {
-        "network": "GitHub",
-        "username": "chrisstiandiaz",
-        "url": "https://github.com/chrisstiandiaz"
-
-    }]
+   ]
     },
     "work": [{
-      "name": "PLATERS FOOD SAC",
+      "name": "Platers Food SAC",
       "position": "Asistente Contable",
       "url": "https://platersfood.com/",
-      "startDate": "2023-01-01",
-      "endDate": "2026-01-01",
+      "startDate": "2023",
+      "endDate": "2026",
       "summary": "En mi rol como asistente contable en PLATER’S FOOD, desempeñé funciones clave en el manejo eficiente de las operaciones financieras. Mis responsabilidades incluyeron la realización precisa y oportuna de boletas, garantizando la documentación adecuada de las transacciones financieras. Además, me encargué del registro meticuloso de la información relacionada con compras y ventas en el sistema contable Concar, asegurando la exactitud e integridad de los datos. Mi competencia en la utilización de Concar permitió un seguimiento preciso y eficiente de las actividades financieras. Asimismo, brindé soporte técnico, manteniendo el sistema contable en óptimas condiciones para asegurar su correcto funcionamiento.",
       "highlights": [
         ""
@@ -95,20 +91,94 @@
       "url": "https://publication.com",
       "summary": "Description…"
     }],
-    "skills": [{
-      "name": "Web Development",
-      "level": "Master",
+    "skills": [
+    {
+      "name": "HTML",
+      "level": "Junior",
       "keywords": [
-        "HTML",
-        "CSS",
-        "JavaScript",
-        "Astro",
-        "React",
-        "TypeScript",
-        "Tailwinds",
-        "Figma"
+        "Desarrollo Web",
+        "Frontend"
       ]
-    }],
+    },
+    {
+      "name": "CSS",
+      "level": "Junior",
+      "keywords": [
+        "Estilos",
+        "Frontend",
+        "Diseño Web"
+      ]
+    },
+    
+    {
+      "name": "JavaScript",
+      "level": "Junior",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "Programación"
+      ]
+    },
+    {
+      "name": "Tailwinds CSS",
+      "level": "Junior",
+      "keywords": [
+        "Estilos",
+        "CSS Utility-First",
+        "Frontend"
+      ]
+    },
+    {
+      "name": "Astro",
+      "level": "Junior",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "Static Site Generation"
+      ]
+    },
+    {
+      "name": "React",
+      "level": "Junior",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "Componentes",
+        "Single Page Applications"
+      ]
+    },
+    {
+      "name": "TypeScript",
+      "level": "Junior",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "Typed JavaScript",
+        "Programación"
+      ]
+    },
+   
+    {
+      "name": "Figma",
+      "level": "Junior",
+      "keywords": [
+        "Diseño",
+        "Prototipado",
+        "UI/UX"
+      ]
+    },
+    {
+      "name": "Java",
+      "level": "Junior",
+      "keywords": [
+        "Programación",
+        "Backend",
+        "Desarrollo de Software"
+      ]
+    }
+  ],
+
+  
     "languages": [{
       "language": "Spanish",
       "fluency": "Native speaker"
@@ -124,14 +194,55 @@
       "name": "Jane Doe",
       "reference": "Reference…"
     }],
-    "projects": [{
-      "name": "Project",
-      "startDate": "2019-01-01",
-      "endDate": "2021-01-01",
-      "description": "Description...",
+   "projects": [
+    {
+      "name": "Sitio Web de Portafolio Personal",
+      "startDate": "2024",
+      "endDate": "2024",
+      "description": "Un sitio web personal para mostrar mis proyectos y habilidades.",
       "highlights": [
-        "Won award at AIHacks 2016"
+        "Construido con HTML, CSS y Astro",
+        "Diseño responsivo",
+        "Incluye una galería de proyectos"
       ],
-      "url": "https://project.com/"
-    }]
+      "url": "https://miportafolio.com/"
+    },
+    {
+      "name": "Aplicación del Clima",
+      "startDate": "2024",
+      "endDate": "2024",
+      "description": "Una aplicación web para mostrar información del clima en diferentes ciudades.",
+      "highlights": [
+        "Desarrollada con React y TypeScript",
+        "Obtiene datos de una API del clima",
+        "Muestra el clima actual, pronóstico y otros datos relevantes"
+      ],
+      "url": "https://aplicacionclima.com/"
+    },
+    {
+      "name": "Sitio Web de Comercio Electrónico",
+      "startDate": "2024",
+      "endDate": "2024",
+      "description": "Una tienda en línea para vender productos.",
+      "highlights": [
+        "Implementado con React y Tailwind CSS",
+        "Incluye listados de productos, carrito de compras y proceso de pago",
+        "Integrado con una pasarela de pago para transacciones seguras"
+      ],
+      "url": "https://sitioecommerce.com/"
+    },
+    {
+      "name": "Herramienta de Gestión de Tareas",
+      "startDate": "2024",
+      "endDate": "2024",
+      "description": "Una herramienta para ayudar a gestionar y organizar tareas.",
+      "highlights": [
+        "Construida con Java y Spring Boot",
+        "Incluye autenticación y autorización de usuarios",
+        "Permite a los usuarios crear, editar y eliminar tareas"
+      ],
+      "url": "https://gestiontareas.com/"
+    }
+   
+  ]
   }
