@@ -6,7 +6,7 @@
       "email": "Christian.mdiaz2002@gmail.com",
       "phone": "+51 932 226 920",
       "url": "",
-      "summary": "Estudiante de la Facultad de Ingeniería de Software, cursando el octavo ciclo en la Universidad Tecnológica del Perú. Poseo habilidades destacadas en el ámbito de las relaciones interpersonales, siendo comunicativo, asertivo y proactivo. Me destaco por mi capacidad de liderazgo y cooperación, lo que me permite trabajar eficazmente en equipo. Comprometido, responsable y dinámico, abordo mis tareas con dedicación y orientación a la calidad. Mi honestidad, vocación de servicio y facilidad para trabajar bajo presión complementan mi perfil, convirtiéndome en un candidato altamente competitivo y adaptable a diversos entornos laborales.",
+      "summary": "Estudiante de Ingeniería de Software en la Universidad Tecnológica del Perú (décimo ciclo), con experiencia en Desarrollo web, Sistemas informáticos, Soporte técnico. Proactivo, comunicativo y con capacidad de liderazgo, trabajo en equipo y adaptación a entornos dinámicos. Poseo conocimientos en tecnologías de desarrollo backend y frontend, además de metodologías ágiles.",
       "location": {
         "address": "",
         "postalCode": "15842",
@@ -40,15 +40,27 @@
     },
     "work": [{
       "name": "Platers Food SAC",
-      "position": "Asistente Contable",
+      "position": "Practicante de sistemas informáticos",
       "url": "https://platersfood.com/",
       "startDate": "2023",
       "endDate": "2026",
-      "summary": "En mi rol como asistente contable en PLATER’S FOOD, desempeñé funciones clave en el manejo eficiente de las operaciones financieras. Mis responsabilidades incluyeron la realización precisa y oportuna de boletas, garantizando la documentación adecuada de las transacciones financieras. Además, me encargué del registro meticuloso de la información relacionada con compras y ventas en el sistema contable Concar, asegurando la exactitud e integridad de los datos. Mi competencia en la utilización de Concar permitió un seguimiento preciso y eficiente de las actividades financieras. Asimismo, brindé soporte técnico, manteniendo el sistema contable en óptimas condiciones para asegurar su correcto funcionamiento.",
+      "summary": "Realicé la instalación, configuración, y mantenimiento preventivo y correctivo de los equipos y software utilizados en la empresa, además de ejecutar consultas SQL para extraer y analizar información relevante de la base de datos, apoyando en la toma de decisiones. Asimismo, implementé mejoras en los procesos de análisis de datos, optimizando la eficiencia y la calidad de la información.",
+      "highlights": [
+        ""
+      ]
+    },
+    {
+      "name": "FreeLancer",
+      "position": "Desarrollador Web",
+      "url": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "Realicé una página web con ayuda de django de inicio de session y logueo de usuarios.",
       "highlights": [
         ""
       ]
     }],
+    
     "volunteer": [{
       "organization": "Organization",
       "position": "Volunteer",
@@ -93,7 +105,7 @@
     }],
     "skills": [
     {
-      "name": "HTML",
+      "name": "Python",
       "level": "Junior",
       "keywords": [
         "Desarrollo Web",
@@ -101,7 +113,7 @@
       ]
     },
     {
-      "name": "CSS",
+      "name": "Django",
       "level": "Junior",
       "keywords": [
         "Estilos",
@@ -111,7 +123,7 @@
     },
     
     {
-      "name": "JavaScript",
+      "name": "Flet",
       "level": "Junior",
       "keywords": [
         "Desarrollo Web",
@@ -120,7 +132,7 @@
       ]
     },
     {
-      "name": "Tailwinds CSS",
+      "name": "Reflex",
       "level": "Junior",
       "keywords": [
         "Estilos",
@@ -168,7 +180,25 @@
       ]
     },
     {
-      "name": "Java",
+      "name": "Cloud",
+      "level": "Junior",
+      "keywords": [
+        "Programación",
+        "Backend",
+        "Desarrollo de Software"
+      ]
+    },
+    {
+      "name": "SQL",
+      "level": "Junior",
+      "keywords": [
+        "Programación",
+        "Backend",
+        "Desarrollo de Software"
+      ]
+    },
+    {
+      "name": "Scrum",
       "level": "Junior",
       "keywords": [
         "Programación",
@@ -205,31 +235,29 @@
         "Diseño responsivo",
         "Incluye una galería de proyectos"
       ],
-      "url": "https://miportafolio.com/"
+      "url": "https://github.com/chrisstiandiaz/PortfolioChristian.git"
     },
     {
-      "name": "Aplicación del Clima",
-      "startDate": "2024",
-      "endDate": "2024",
-      "description": "Una aplicación web para mostrar información del clima en diferentes ciudades.",
+      "name": "Proyecto en Reflex",
+      "startDate": "2025",
+      "endDate": "2025",
+      "description": "Una aplicación web personal",
       "highlights": [
-        "Desarrollada con React y TypeScript",
-        "Obtiene datos de una API del clima",
-        "Muestra el clima actual, pronóstico y otros datos relevantes"
+        "Construido con Reflex Python",
+        "Incluye una API REST"
+        
       ],
-      "url": "https://aplicacionclima.com/"
+      "url": "https://github.com/chrisstiandiaz/PortfolioChristian.git"
     },
     {
-      "name": "Sitio Web de Comercio Electrónico",
+      "name": "Proyecto grupal para la Hackathon UTP 2024",
       "startDate": "2024",
       "endDate": "2024",
-      "description": "Una tienda en línea para vender productos.",
+      "description": "Proyecto grupal para la implementacion de mejoras dentro de la app UTP+ PORTAL",
       "highlights": [
-        "Implementado con React y Tailwind CSS",
-        "Incluye listados de productos, carrito de compras y proceso de pago",
-        "Integrado con una pasarela de pago para transacciones seguras"
+        "Implementado con React y Tailwind CSS"        
       ],
-      "url": "https://sitioecommerce.com/"
+      "url": "https://github.com/brunoSandoval210/Hackaton-404.git"
     },
     {
       "name": "Herramienta de Gestión de Tareas",
