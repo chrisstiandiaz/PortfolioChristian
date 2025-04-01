@@ -40,7 +40,7 @@
     },
     "work": [{
       "name": "Platers Food SAC",
-      "position": "Practicante de sistemas informáticos",
+      "position": "Asistente de Sistemas Informáticos",
       "url": "https://platersfood.com/",
       "startDate": "2023",
       "endDate": "2026",
@@ -48,18 +48,8 @@
       "highlights": [
         ""
       ]
-    },
-    {
-      "name": "FreeLancer",
-      "position": "Desarrollador Web",
-      "url": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "Realizo paginas web para pequeñas empresas y emprendedores, utilizando tecnologías como HTML, CSS, JavaScript, React, Django, entre otras. Además, brindo soporte técnico y mantenimiento de las páginas web, garantizando su correcto funcionamiento y seguridad.",
-      "highlights": [
-        ""
-      ]
-    }],
+    }
+    ],
     
     "volunteer": [{
       "organization": "Organization",
@@ -199,6 +189,15 @@
     },
     {
       "name": "Scrum",
+      "level": "Junior",
+      "keywords": [
+        "Programación",
+        "Backend",
+        "Desarrollo de Software"
+      ]
+    },
+    {
+      "name": "GitHub",
       "level": "Junior",
       "keywords": [
         "Programación",
