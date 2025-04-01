@@ -48,8 +48,10 @@
       "highlights": [
         ""
       ]
-    },
-    }],
+
+    }
+  ],
+
     
     "volunteer": [{
       "organization": "Organization",
@@ -195,6 +197,15 @@
         "Backend",
         "Desarrollo de Software"
       ]
+    },
+    {
+      "name": "GitHub",
+      "level": "Junior",
+      "keywords": [
+        "Programación",
+        "Backend",
+        "Desarrollo de Software"
+      ]
     }
   ],
 
@@ -224,18 +235,6 @@
         "Construido con HTML, CSS y Astro",
         "Diseño responsivo",
         "Incluye una galería de proyectos"
-      ],
-      "url": "https://github.com/chrisstiandiaz/PortfolioChristian.git"
-    },
-    {
-      "name": "Proyecto en Reflex",
-      "startDate": "2025",
-      "endDate": "2025",
-      "description": "Una aplicación web personal",
-      "highlights": [
-        "Construido con Reflex Python",
-        "Incluye una API REST"
-        
       ],
       "url": "https://github.com/chrisstiandiaz/PortfolioChristian.git"
     },
