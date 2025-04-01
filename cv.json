@@ -113,25 +113,6 @@
         "Diseño Web"
       ]
     },
-    
-    {
-      "name": "Flet",
-      "level": "Junior",
-      "keywords": [
-        "Desarrollo Web",
-        "Frontend",
-        "Programación"
-      ]
-    },
-    {
-      "name": "Reflex",
-      "level": "Junior",
-      "keywords": [
-        "Estilos",
-        "CSS Utility-First",
-        "Frontend"
-      ]
-    },
     {
       "name": "Astro",
       "level": "Junior",
@@ -141,27 +122,7 @@
         "Static Site Generation"
       ]
     },
-    {
-      "name": "React",
-      "level": "Junior",
-      "keywords": [
-        "Desarrollo Web",
-        "Frontend",
-        "Componentes",
-        "Single Page Applications"
-      ]
-    },
-    {
-      "name": "TypeScript",
-      "level": "Junior",
-      "keywords": [
-        "Desarrollo Web",
-        "Frontend",
-        "Typed JavaScript",
-        "Programación"
-      ]
-    },
-   
+
     {
       "name": "Figma",
       "level": "Junior",
@@ -199,7 +160,7 @@
       ]
     },
     {
-      "name": "GitHub",
+      "name": "Git",
       "level": "Junior",
       "keywords": [
         "Programación",
