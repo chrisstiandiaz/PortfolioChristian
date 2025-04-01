@@ -48,10 +48,15 @@
       "highlights": [
         ""
       ]
+<<<<<<< HEAD
 
     }
   ],
 
+=======
+    }
+    ],
+>>>>>>> 13d662651c39974d637fc31c80d856ebb3b0af00
     
     "volunteer": [{
       "organization": "Organization",
@@ -160,7 +165,11 @@
       ]
     },
     {
+<<<<<<< HEAD
       "name": "Git",
+=======
+      "name": "GitHub",
+>>>>>>> 13d662651c39974d637fc31c80d856ebb3b0af00
       "level": "Junior",
       "keywords": [
         "Programación",
