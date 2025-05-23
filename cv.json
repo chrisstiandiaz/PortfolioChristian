@@ -1,12 +1,12 @@
 {
     "basics": {
-      "name": "Christian Diaz",
+      "name": "Hi, I'm Christian Diaz",
       "label": "Full Stack Developer in Progress ....",
       "image": "https://avatars.githubusercontent.com/u/155854813?v=4",
       "email": "Christian.mdiaz2002@gmail.com",
       "phone": "+51 932 226 920",
       "url": "",
-      "summary": "Estudiante de Ingeniería de Software en la Universidad Tecnológica del Perú (décimo ciclo), con experiencia en Desarrollo web, Sistemas informáticos, Soporte técnico. Proactivo, comunicativo y con capacidad de liderazgo, trabajo en equipo y adaptación a entornos dinámicos. Poseo conocimientos en tecnologías de desarrollo backend y frontend, además de metodologías ágiles.",
+      "summary": "Estudiante de Ingeniería de Software en la Universidad Tecnológica del Perú (décimo ciclo), con experiencia en Desarrollo web, Sistemas informáticos, Soporte técnico y Analisis de datos. Proactivo, comunicativo y con capacidad de liderazgo, trabajo en equipo y adaptación a entornos dinámicos. Poseo conocimientos en tecnologías de desarrollo backend y frontend, además de metodologías ágiles. Abierto a nuevas oportunidades",
       "location": {
         "address": "",
         "postalCode": "15842",
@@ -48,15 +48,8 @@
       "highlights": [
         ""
       ]
-<<<<<<< HEAD
-
-    }
-  ],
-
-=======
     }
     ],
->>>>>>> 13d662651c39974d637fc31c80d856ebb3b0af00
     
     "volunteer": [{
       "organization": "Organization",
@@ -102,14 +95,6 @@
     }],
     "skills": [
     {
-      "name": "Python",
-      "level": "Junior",
-      "keywords": [
-        "Desarrollo Web",
-        "Frontend"
-      ]
-    },
-    {
       "name": "Django",
       "level": "Junior",
       "keywords": [
@@ -127,7 +112,24 @@
         "Static Site Generation"
       ]
     },
-
+    {
+      "name": "React",
+      "level": "Junior",
+      "keywords": [
+        "Programación",
+        "Backend",
+        "Desarrollo de Software"
+      ]
+    },
+    {
+      "name": "Angular",
+      "level": "Junior",
+      "keywords": [
+        "Programación",
+        "Backend",
+        "Desarrollo de Software"
+      ]
+    },
     {
       "name": "Figma",
       "level": "Junior",
@@ -135,15 +137,6 @@
         "Diseño",
         "Prototipado",
         "UI/UX"
-      ]
-    },
-    {
-      "name": "Cloud",
-      "level": "Junior",
-      "keywords": [
-        "Programación",
-        "Backend",
-        "Desarrollo de Software"
       ]
     },
     {
@@ -157,19 +150,6 @@
     },
     {
       "name": "Scrum",
-      "level": "Junior",
-      "keywords": [
-        "Programación",
-        "Backend",
-        "Desarrollo de Software"
-      ]
-    },
-    {
-<<<<<<< HEAD
-      "name": "Git",
-=======
-      "name": "GitHub",
->>>>>>> 13d662651c39974d637fc31c80d856ebb3b0af00
       "level": "Junior",
       "keywords": [
         "Programación",
@@ -202,9 +182,6 @@
       "endDate": "2024",
       "description": "Un sitio web personal para mostrar mis proyectos y habilidades.",
       "highlights": [
-        "Construido con HTML, CSS y Astro",
-        "Diseño responsivo",
-        "Incluye una galería de proyectos"
       ],
       "url": "https://github.com/chrisstiandiaz/PortfolioChristian.git"
     },
@@ -214,7 +191,7 @@
       "endDate": "2024",
       "description": "Proyecto grupal para la implementacion de mejoras dentro de la app UTP+ PORTAL",
       "highlights": [
-        "Implementado con React y Tailwind CSS"        
+         
       ],
       "url": "https://github.com/brunoSandoval210/Hackaton-404.git"
     },
@@ -224,9 +201,6 @@
       "endDate": "2024",
       "description": "Una herramienta para ayudar a gestionar y organizar tareas.",
       "highlights": [
-        "Construida con Java y Spring Boot",
-        "Incluye autenticación y autorización de usuarios",
-        "Permite a los usuarios crear, editar y eliminar tareas"
       ],
       "url": "https://gestiontareas.com/"
     }

@@ -8,6 +8,7 @@ import LinkedIn from '../icons/LinkedIn.astro'
 import GitHub from '../icons/GitHub.astro'
 import WorldMap from '../icons/WorldMap.astro'
 import EmojiSaludo from '../icons/EmojiSaludo.astro'
+import Hands from '../icons/hand.svg'
 import type { SocialIcon } from "@/types"
 
 const { name, label, image, location, profiles, phone, email } = basics
@@ -28,7 +29,7 @@ const printInfo = [email, phone, linkedUrl].filter(Boolean).join(" • ")
 <Section>
   <div class="container">
     <div class="info">
-      <h1>{name}</h1>
+      <h1>{name} <img src={Hands.src} alt="Saludo" style="width: 30px;"/> </h1>
       <h2>{label}</h2>
       <span>
         <WorldMap />
