@@ -27,11 +27,7 @@ Bases de datos: PostgreSQL, MySQL
 Herramientas: Git, GitHub, VS Code, Power BI, Looker Studio
 
 📫 Conéctate conmigo
+📧 Correo: christian.merlin.diaz@gmail.com
+💼 LinkedIn: linkedin.com/in/christian-merlin-diaz-quispe
 
-📧 Correo: TuEmail@ejemplo.com
 
-💼 LinkedIn: linkedin.com/in/TuPerfil
-
-🐦 Twitter: twitter.com/TuUsuario
-
-📊 GitHub Stats
